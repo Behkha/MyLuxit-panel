@@ -1,6 +1,6 @@
 # Dionysus Panel
 
-> 4 paye control panel
+> MyLuxit control panel
 
 ## Build Setup
 
